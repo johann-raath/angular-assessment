@@ -36,7 +36,7 @@ The UI must:
       * The details page must:
         * Have all the same details as the modal on the listing page.
         * A form that:
-          * allows the user to make a comment about the country
+          * allows the user to make a comment about the country (saved in local storage against that country)
           * allows the user to optionally add a picture to a comment using a Google images URL.
           * automatically sets the time stamp on each comment formatted as: Thurs, 01 April 2023 10:36AM	
         

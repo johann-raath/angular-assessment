@@ -1,4 +1,6 @@
-# Warp Angular Assessment
+<img src="https://www.warpdevelopment.com/App_Themes/WarpDevelopment/Images/core/warp-logo-white.svg" width="250">
+
+# Angular Assessment:
 
 Create a UI that lists all of the countries in the world using the following API: 
 

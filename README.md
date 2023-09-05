@@ -1,12 +1,7 @@
 # Warp Angular Assessment
 
-Create a UI that lists all of the countries in the world using: https://gitlab.com/restcountries/restcountries.
+Create a UI that lists all of the countries in the world using the following API: https://gitlab.com/restcountries/restcountries.
 
-The UI must lazy load the main modules of the project. 
-
-The design and layout of the project is up to the developer.
-	
-	
 The UI must:
 
 * Display the countries as a grid, using their flag as the picture with their coat of arms as an icon over their flag.
@@ -25,7 +20,7 @@ The UI must:
     * Country local time and time zone.
     * Capital city.
     * A list of their currencies.
-    * A link to view on map (either Google or OpenSteertMaps)   
+    * A link to view on map (either Google or OpenStreetMaps)   
   * Have favourite/Unfavourite.
   * Have a close button.
 * Have a way to access your favourites page.
@@ -48,9 +43,15 @@ The developer will be critiqued on:
 * Interpretation of the given brief.
 * Implementation of typed requests and responses.
 * Re-usability of their components and code.
-* House keeping of their project. Modules, components and styling.
+* House keeping of the project. Modules, components and styling.
 * Use of local storage to persist state.
 * Use of services and observables.
+* Their commit history.
+
+## Bonus
+
+* Lazy load the main modules of the project.
+* Styling
 
 ## Git
 		

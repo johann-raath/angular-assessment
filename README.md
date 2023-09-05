@@ -1,10 +1,12 @@
 # Warp Angular Assessment
 
-Create a UI that lists all of the countries in the world using the following API: https://gitlab.com/restcountries/restcountries.
+Create a UI that lists all of the countries in the world using the following API: 
+
+https://gitlab.com/restcountries/restcountries
 
 Any libraries or supporting packages of your choice can be used to complete this assessment.
 
-The UI must:
+## The UI must:
 
 * Display the countries as a grid, using their flag as the picture with their coat of arms as an icon over their flag.
 * Have filters to filter countries by region.
